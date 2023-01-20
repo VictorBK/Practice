@@ -3,5 +3,4 @@ public String firstTwo(String str) {
         return str;
 
     return str.substring(0, 2);
-    
 }
